@@ -29,7 +29,7 @@ body {
 
 header {
   height: 800px;
-  background: url(../img/full-background.png);
+  background: url('../img/full-background.png');
   background-size: cover;
 }
 
